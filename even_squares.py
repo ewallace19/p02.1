@@ -31,5 +31,3 @@ def even_squares(n):
 
     else:
         print(n)
-
-    

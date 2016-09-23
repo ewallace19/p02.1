@@ -40,7 +40,7 @@ def troll_count(n):
     if n == 1:
         print("one")
 
-    elif 1 < n < 3:
+    elif n == 2:
         print("two")
 
     elif 2 < n < 9:
